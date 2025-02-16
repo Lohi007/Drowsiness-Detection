@@ -1,4 +1,4 @@
-# Drowsiness-Detection Project
+# DROWSY DRIVER DETECTION SYSTEM 
 
 ## How to run the program:
 * Make sure to have Python version 10 or above and a Text Editor.
